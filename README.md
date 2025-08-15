@@ -45,7 +45,7 @@ I design and build solutions that **transform businesses** through efficiency, i
 
 ### 🟢 AI-Powered Bulk Mailer
 
-🔹 **Tech:** Laravel • MySQL • Queue System
+🔹 **Tech:** React • Laravel • MySQL • Queue System
 🔹 **Performance:** 50K+ emails/hour
 🔹 **Features:** Templates • Analytics • A/B Testing
 
