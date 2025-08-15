@@ -141,6 +141,85 @@ current_focus:
 
 ---
 
+## 🔧 ScriptSpark Services
+
+> **Automatiza tu negocio con código inteligente** | [scriptspark.net](https://scriptspark.net)
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/Proyectos_Completados-50+-00D9FF?style=for-the-badge)
+![Response Time](https://img.shields.io/badge/Tiempo_Respuesta-24h-4CAF50?style=for-the-badge)
+![Uptime](https://img.shields.io/badge/Uptime_Garantizado-99%25-FF6B35?style=for-the-badge)
+
+</div>
+
+### 🕷️ **Web Scraping Inteligente**
+- **Extracción masiva** con sistemas anti-detección
+- **Playwright & Puppeteer** headless automation
+- **Rotación automática** de IPs y User-Agents
+- **Manejo inteligente** de CAPTCHAs y rate limits
+- **Dashboards en tiempo real** para monitoreo 24/7
+- **APIs REST** para integración directa
+
+### 🌐 **Sitios Web & E-commerce**
+- **Next.js, Nuxt, Laravel** con SSR/SSG
+- **SEO técnico** y optimización Core Web Vitals
+- **CMS headless** (Sanity, Strapi)
+- **Pasarelas de pago** (Stripe, PayPal)
+- **A/B testing** y analítica avanzada
+- **Diseño responsive** y accesible
+
+### 🤖 **Automatización & Bots**
+- **Chatbots** para Slack, Discord, Telegram
+- **RPA** para procesos repetitivos
+- **Integraciones** con Zapier, Make
+- **Webhooks** y eventos tiempo real
+- **Conectores** para CRMs y ERPs
+- **Notificaciones inteligentes**
+
+### ⚡ **APIs & Microservicios**
+- **REST, GraphQL, tRPC** APIs
+- **JWT y OAuth 2.0** authentication
+- **Rate limiting** y throttling
+- **Swagger** auto-documentation
+- **Logging, tracing** y métricas
+- **Serverless** deployment
+
+### 💻 **Aplicaciones Full-Stack**
+- **Frontend:** Vue 3, React, Svelte + TypeScript
+- **Backend:** Node.js, Python, PHP
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Testing** end-to-end con Playwright
+- **Design systems** y componentes reutilizables
+- **Estado global** y caching inteligente
+
+### 🔒 **DevOps & Seguridad**
+- **Auditorías OWASP** de seguridad
+- **CI/CD** con GitHub Actions, GitLab
+- **Docker & Kubernetes** containerization
+- **Monitoreo** con Grafana, Sentry
+- **Backups automatizados** y disaster recovery
+- **SSL certificates** y security headers
+
+<div align="center">
+
+### 📊 **Performance Metrics**
+
+| Metric | Value |
+|--------|-------|
+| 🎯 **Success Rate** | 98.5% |
+| ⚡ **Tasks/Hour** | 2,340 |
+| 🚀 **API Uptime** | 99.9% |
+| 🏆 **Performance Score** | 95/100 |
+| 🔐 **Security Score** | A+ |
+| ♾️ **Scalability** | Unlimited |
+
+**[🚀 Solicitar Consultoría Gratuita](mailto:victor.leonel@scriptspark.net)**
+
+</div>
+
+---
+
 ## 📈 Activity Graph
 
 <div align="center">
@@ -166,11 +245,12 @@ current_focus:
 
 <div align="center">
   
-**¿Tienes un proyecto en mente? ¡Hablemos!**
+**¿Tienes un proyecto en mente? ¡Transformemos tu idea en realidad digital!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thevertrix)
-[![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.leonel@scriptspark.net)
+[![Email](https://img.shields.io/badge/Email-hello@scriptspark.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.leonel@scriptspark.net)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsvic.js)
+[![Portfolio](https://img.shields.io/badge/ScriptSpark-Visit_Portfolio-00D9FF?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://scriptspark.net)
 
 </div>
 
