@@ -37,7 +37,7 @@ I design and build solutions that **transform businesses** through efficiency, i
 
 ### 🟢 Multi-Client Bot Platform
 
-🔹 **Tech:** Node.js • WebSockets • Docker • MySQL
+🔹 **Tech:** Vue • Laravel • WebSockets • MySQL
 🔹 **Performance:** 1000+ concurrent connections
 🔹 **Features:** WhatsApp, Telegram & Discord unified management
 
@@ -45,7 +45,7 @@ I design and build solutions that **transform businesses** through efficiency, i
 
 ### 🟢 AI-Powered Bulk Mailer
 
-🔹 **Tech:** Laravel • Redis • Queue System
+🔹 **Tech:** Laravel • MySQL • Queue System
 🔹 **Performance:** 50K+ emails/hour
 🔹 **Features:** Templates • Analytics • A/B Testing
 
@@ -53,7 +53,7 @@ I design and build solutions that **transform businesses** through efficiency, i
 
 ### 🟢 Intelligent Web Scraper
 
-🔹 **Tech:** Python • Playwright • Proxy Network
+🔹 **Tech:** Python • Node.js • Playwright • Proxy Network
 🔹 **Performance:** 98.5% success rate
 🔹 **Features:** ML parsing • CAPTCHA solving • Real-time dashboards
 
