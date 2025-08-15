@@ -31,17 +31,6 @@ I design and build solutions that **transform businesses** through efficiency, i
 
 ---
 
-## 📊 GitHub Performance
-
-<div align="center">  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thevertrix&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff" />  
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thevertrix&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FF6B35&currStreakLabel=00FF88" />  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevertrix&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=ffffff&langs_count=8" />  
-</div>  
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">  
